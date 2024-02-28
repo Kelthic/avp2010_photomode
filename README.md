@@ -2,6 +2,8 @@
 
 This is photomode for Aliens vs. Predator 2010 (AVP3)
 
+EXE file developer: <b>@Sarmat1203</b>
+
 # How to Use
 1. Run the game in **DX11**
 3. Get start **any** mission you want
