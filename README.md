@@ -20,6 +20,12 @@ EXE file developer: <b>@Sarmat1203</b>
       avp.flycam.usefov 0/1 //make flycam mode enable\disable FOV
       avp.flycam.fov <value> //set the FOV value
 
+### Keybindings
+
+- Use "-" or "+" on your keyboard to make camera slower/faster
+
+- Use "<" and ">" to change angle of view
+
 ### Preview
 
 <details>
@@ -32,3 +38,4 @@ EXE file developer: <b>@Sarmat1203</b>
    <img src="https://github.com/Kelthic/avp2010_photomode/blob/main/media/AvP_DX11%202024-02-28%2012-19-06%20copy.png" /><br><br>
 </center>
 </details>
+
